@@ -1,6 +1,0 @@
-com\bid\auctionedge\AuctionEdgeTestSuite.class
-com\bid\auctionedge\controller\test\BidControllerTest.class
-com\bid\auctionedge\BidWinnerApplicationTests.class
-com\bid\auctionedge\controller\test\UserControllerTest.class
-com\bid\auctionedge\service\impl\test\BidServiceImplTest.class
-com\bid\auctionedge\service\impl\test\UserServiceImplTest.class
